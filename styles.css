@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+}
+
+body {
+    color: #023E8A;
+    background-color: #90E0EF;
+    margin: 0;
+}
+
+ol, ul {
+    list-style-position: inside;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #0077B6;
+}
+
+a:visited {
+    color: #0b028a;
+}
